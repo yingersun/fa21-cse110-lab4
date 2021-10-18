@@ -1,0 +1,2 @@
+1. the calculateSum() function in explore.js is concatenating the two strings num1 and num2. we need to convert num1 and num2 into integers.
+2. i would fix it by converting num1 and num2 into integers before adding them.
